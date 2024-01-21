@@ -1,4 +1,4 @@
-# Authors: Nunez, Gumba, and Santos (2023)
+# Authors: Nunez, Gumba, and Santos (2024)
 # Description: This script is used to extract features from the dataset and conduct exploratory data analysis.
 
 import pandas as pd
